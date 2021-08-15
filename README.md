@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about React
 - 📫 How to reach me: aikenyanlynnoo.uit@gmail.com
 - 😄 Pronouns: 109/110
-- ⚡ Fun fact: I like Singing while Coding
-- :microphone:
+- :microphone: Fun fact: I like Singing while Coding
 
