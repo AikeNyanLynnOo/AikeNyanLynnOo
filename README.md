@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aikenyanlynnoo.uit@gmail.com
 - 😄 Pronouns: 109/110
 - ⚡ Fun fact: I like Singing while Coding
+- :microphone
 
