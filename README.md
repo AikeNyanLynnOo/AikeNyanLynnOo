@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aike Nyan Lynn Oo</h1>
-<h4 align="center">A passionate frontend developer. Majoring in Software Engineering at University of Information Technology Myanmar, I have developed various designs for web applications using React, Vue and CSS technologies. I'am also good at building and using REST APIs and currently learning GraphQL. I also have experience of Cloud technologies through Google Cloud Platform (Cloud App Engine, Docker, Cloud Run, BigQuery, Cloud Scheduler, etc.)</h4>
+<p align="center">A passionate frontend developer. Majoring in Software Engineering at University of Information Technology Myanmar, I have developed various designs for web applications using React, Vue and CSS technologies. I'am also good at building and using REST APIs and currently learning GraphQL. I also have experience of Cloud technologies through Google Cloud Platform (Cloud App Engine, Docker, Cloud Run, BigQuery, Cloud Scheduler, etc.)</p>
 
 - 🔭 I’m currently working at [ONOW Myanmar](https://www.onow.com/)
 
