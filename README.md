@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aike Nyan Lynn Oo</h1>
-<h3 align="center">A passionate frontend developer. Majoring in Software Engineering at University of Information Technology Myanmar, I am really enthusiastic to develop software systems and manage software systems. I have developed various designs for web applications using React, Vue and CSS technologies. I'am also good at building and using REST APIs and currently learning GraphQL. I also have experience of Cloud technologies through Google Cloud Platform (Cloud App Engine, Docker, Cloud Run, BigQuery, Cloud Scheduler, etc.)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aikenyanlynnoo&label=Profile%20views&color=0e75b6&style=flat" alt="aikenyanlynnoo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aikenyanlynnoo" alt="aikenyanlynnoo" /></a> </p>
+<h3 align="center">A passionate frontend developer. Majoring in Software Engineering at University of Information Technology Myanmar, I have developed various designs for web applications using React, Vue and CSS technologies. I'am also good at building and using REST APIs and currently learning GraphQL. I also have experience of Cloud technologies through Google Cloud Platform (Cloud App Engine, Docker, Cloud Run, BigQuery, Cloud Scheduler, etc.)</h3>
 
 - 🔭 I’m currently working at [ONOW Myanmar](https://www.onow.com/)
 
