@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aike Nyan Lynn Oo</h1>
-<p align="center">A passionate frontend developer. Armed with Bachelor of Computer Science, I have developed various designs for web applications using React, Vue and CSS technologies. I'am also good at building and using REST APIs and currently learning GraphQL. I also have experience of Cloud technologies through Google Cloud Platform (Cloud App Engine, Docker, Cloud Run, BigQuery, Cloud Scheduler, etc.)</p>
+<p align="center">A Senior frontend developer. Armed with Bachelor of Computer Science, I have developed various designs for web applications using React, Vue and CSS technologies. I'am also good at building and using REST APIs and currently learning GraphQL. I also have experience of Cloud technologies through Google Cloud Platform (Cloud App Engine, Docker, Cloud Run, BigQuery, Cloud Scheduler, etc.)</p>
 
-- 🔭 I’m currently working at [ONOW Myanmar](https://www.onow.com/)
+- 🔭 I’m currently working at [Venuerific](https://www.venuerific.com/)
 
-- 🌱 I’m currently learning **I’m currently learning Next JS, Vue and Frontend Technologies**
+- 🌱 I’m currently learning **I’m currently learning Nest JS, Backend Technologies**
 
 - 👯 I’m looking to collaborate as **Frontend Developer**
 
 - 🤝 I’m looking for help with **backend developers to collaborate together**
 
-- 👨‍💻 All of my projects are available at [https://aikenyanlynnoo.github.io/](https://aikenyanlynnoo.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-aike.vercel.app/](https://portfolio-aike.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@aikenyanlynnoo.dev](https://medium.com/@aikenyanlynnoo.dev)
 
